@@ -396,12 +396,12 @@ ul#navigation li .icon {
 .biothumb{position: relative;}
 .biothumb .overlay{
 	position: absolute;
-	width: 100%;
+	width: 60%;
 	color:#fff;
 	bottom: 0;
 	background-color: black;
 	background-color: rgba(0,0,0,0.5);
-	padding:25px;
+	padding:10px;
 }
 .biothumb .overlay h1{
 	font-size: 45px;
